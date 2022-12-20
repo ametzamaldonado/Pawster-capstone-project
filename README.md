@@ -40,7 +40,7 @@ PG_PASSWORD=""
 ```
 
 back-end is deployed using Render. See below link for further instructions: 
-- "https://github.com/joinpursuit/guide-deployment/blob/main/render-express-postgres/README.md" 
+- https://github.com/joinpursuit/guide-deployment/blob/main/render-express-postgres/README.md
 
 
 **`/front-end`** 
@@ -68,8 +68,8 @@ REACT_APP_MEASUREMENT_ID= <enter firebase info>
 ```
 
 front-end is deployed using Netlify. See below link for further instructions: 
-- "https://github.com/joinpursuit/guide-deployment/tree/main/netlify-create-react-app" 
+- https://github.com/joinpursuit/guide-deployment/tree/main/netlify-create-react-app
 
 Instructions for firebase can be found using the below link:
-- "https://github.com/mckiernantim/firebase-react"
+- https://github.com/mckiernantim/firebase-react
 
