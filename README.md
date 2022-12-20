@@ -74,6 +74,6 @@ Instructions for firebase can be found using the below link:
 - https://github.com/mckiernantim/firebase-react
 
 
-##Resources we used to help plan this project are as follows:
+## Resources we used to help plan this project are as follows:
 - https://trello.com/b/6Itit3l0/capstone-project
 - https://miro.com/app/board/uXjVPEbh7WI=/
