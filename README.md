@@ -78,6 +78,9 @@ front-end is deployed using Netlify. See below link for further instructions:
 Instructions for firebase can be found using the below link:
 - https://github.com/mckiernantim/firebase-react
 
+## Deployed Links:
+- Front-end: https://pawster-frontend.netlify.app
+- Back-end: https://pawster-versiontwo.onrender.com
 
 ## Resources we used to help plan this project are as follows:
 - https://trello.com/b/6Itit3l0/capstone-project
